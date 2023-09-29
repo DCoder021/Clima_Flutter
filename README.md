@@ -3,7 +3,7 @@ A weather app inspired by the beautiful designs made by [Olia Gozha](https://dri
 
 ## Preview
 <div align="center">
-  <video src="https://user-images.githubusercontent.com/87572877/220147712-f0b73b35-9269-4dd2-b80e-f301dd75c1d8.mp4"/>
+  <video src=""/>
 </div>
 
 ## Work
